@@ -1,5 +1,5 @@
 # RestauranteX_atri_labs_assignment
-Restaurant Website Clone using Atri Framework @ https://github.com/Atri-Labs/atrilabs-engine
+Clone of a Restaurant Website using Atri Framework @ https://github.com/Atri-Labs/atrilabs-engine
 
 Atri framework is extending the definition of full-stack to include non web developers in the development and maintenance of an app.
 
