@@ -1,0 +1,95 @@
+{
+  "burger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "Restaurante X.svg": {
+    "mime": "image/svg+xml"
+  },
+  "aboutus.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "article1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "article2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "article3.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "article4.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "article5.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "avatar1.jpg": {
+    "mime": "image/jpeg"
+  },
+  "desserts.svg": {
+    "mime": "image/svg+xml"
+  },
+  "doordash.svg": {
+    "mime": "image/svg+xml"
+  },
+  "drinks.svg": {
+    "mime": "image/svg+xml"
+  },
+  "Grubhub.svg": {
+    "mime": "image/svg+xml"
+  },
+  "leftarrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "maindishes.svg": {
+    "mime": "image/svg+xml"
+  },
+  "menu1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "mostdel.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "Postmates.svg": {
+    "mime": "image/svg+xml"
+  },
+  "Rappi.svg": {
+    "mime": "image/svg+xml"
+  },
+  "rightarrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "star.svg": {
+    "mime": "image/svg+xml"
+  },
+  "milkshake.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "chicburger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "clasfries.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "eggtoast.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "icecream.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "pancakes.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "soda.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "mail.svg": {
+    "mime": "image/svg+xml"
+  },
+  "loc.svg": {
+    "mime": "image/svg+xml"
+  },
+  "call.svg": {
+    "mime": "image/svg+xml"
+  }
+}
