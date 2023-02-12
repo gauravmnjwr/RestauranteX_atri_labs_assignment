@@ -223,28 +223,31 @@ const desktopModeProps = {
     "Flex29": {
       "callbacks": {}
     },
-    "Flex31": {
-      "callbacks": {}
-    },
     "Flex191": {
-      "callbacks": {}
-    },
-    "Flex192": {
-      "callbacks": {}
-    },
-    "Flex195": {
-      "callbacks": {}
-    },
-    "Flex201": {
       "callbacks": {}
     },
     "Flex194": {
       "callbacks": {}
     },
-    "Flex202": {
+    "Flex436": {
       "callbacks": {}
     },
-    "Flex203": {
+    "Flex438": {
+      "callbacks": {}
+    },
+    "Flex451": {
+      "callbacks": {}
+    },
+    "Flex454": {
+      "callbacks": {}
+    },
+    "Flex452": {
+      "callbacks": {}
+    },
+    "Flex453": {
+      "callbacks": {}
+    },
+    "Flex31": {
       "callbacks": {}
     },
     "Flex32": {
@@ -265,25 +268,25 @@ const desktopModeProps = {
     "Flex170": {
       "callbacks": {}
     },
-    "Flex166": {
-      "callbacks": {}
-    },
-    "Flex171": {
-      "callbacks": {}
-    },
-    "Flex173": {
-      "callbacks": {}
-    },
-    "Flex167": {
-      "callbacks": {}
-    },
-    "Flex174": {
-      "callbacks": {}
-    },
-    "Flex175": {
-      "callbacks": {}
-    },
     "Flex177": {
+      "callbacks": {}
+    },
+    "Flex423": {
+      "callbacks": {}
+    },
+    "Flex421": {
+      "callbacks": {}
+    },
+    "Flex422": {
+      "callbacks": {}
+    },
+    "Flex426": {
+      "callbacks": {}
+    },
+    "Flex424": {
+      "callbacks": {}
+    },
+    "Flex425": {
       "callbacks": {}
     },
     "Flex33": {
@@ -307,13 +310,16 @@ const desktopModeProps = {
     "Flex37": {
       "callbacks": {}
     },
-    "Flex38": {
+    "Flex420": {
       "callbacks": {}
     },
-    "Flex39": {
+    "Flex419": {
       "callbacks": {}
     },
-    "Flex40": {
+    "Flex417": {
+      "callbacks": {}
+    },
+    "Flex418": {
       "callbacks": {}
     },
     "Flex41": {
@@ -328,28 +334,31 @@ const desktopModeProps = {
     "Flex43": {
       "callbacks": {}
     },
-    "Flex48": {
+    "Flex49": {
       "callbacks": {}
     },
-    "Flex49": {
+    "Flex48": {
       "callbacks": {}
     },
     "Flex44": {
       "callbacks": {}
     },
-    "Flex46": {
+    "Flex410": {
       "callbacks": {}
     },
-    "Flex47": {
+    "Flex415": {
       "callbacks": {}
     },
-    "Flex400": {
+    "Flex416": {
       "callbacks": {}
     },
-    "Flex401": {
+    "Flex483": {
       "callbacks": {}
     },
-    "Flex402": {
+    "Flex484": {
+      "callbacks": {}
+    },
+    "Flex485": {
       "callbacks": {}
     },
     "Image1": {
@@ -796,7 +805,7 @@ const desktopModeProps = {
     },
     "TextBox360": {
       "custom": {
-        "text": "Your text Here!"
+        "text": "Come and visit us"
       },
       "callbacks": {
         "onClick": [
@@ -993,7 +1002,7 @@ const desktopModeProps = {
     },
     "TextBox318": {
       "custom": {
-        "text": "$ 10.99 USD"
+        "text": "$ 6.99 USD"
       },
       "callbacks": {
         "onClick": [
@@ -1042,7 +1051,7 @@ const desktopModeProps = {
     },
     "TextBox321": {
       "custom": {
-        "text": "$ 10.99 USD"
+        "text": "$ 5.99 USD"
       },
       "callbacks": {
         "onClick": [
@@ -1091,7 +1100,7 @@ const desktopModeProps = {
     },
     "TextBox324": {
       "custom": {
-        "text": "$ 10.99 USD"
+        "text": "$ 8.99 USD"
       },
       "callbacks": {
         "onClick": [
@@ -1164,7 +1173,7 @@ const desktopModeProps = {
     },
     "TextBox330": {
       "custom": {
-        "text": "$ 10.99 USD"
+        "text": "$ 3.99 USD"
       },
       "callbacks": {
         "onClick": [
@@ -1213,7 +1222,7 @@ const desktopModeProps = {
     },
     "TextBox336": {
       "custom": {
-        "text": "$ 10.99 USD"
+        "text": "$ 9.99 USD"
       },
       "callbacks": {
         "onClick": [
@@ -1262,7 +1271,7 @@ const desktopModeProps = {
     },
     "TextBox339": {
       "custom": {
-        "text": "$ 10.99 USD"
+        "text": "$ 6.99 USD"
       },
       "callbacks": {
         "onClick": [
@@ -1311,7 +1320,7 @@ const desktopModeProps = {
     },
     "TextBox342": {
       "custom": {
-        "text": "$ 10.99 USD"
+        "text": "$ 1.99 USD"
       },
       "callbacks": {
         "onClick": [
@@ -1606,6 +1615,154 @@ const desktopModeProps = {
         ]
       }
     },
+    "Image199": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/article2.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox444": {
+      "custom": {
+        "text": "September 1, 2022"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox445": {
+      "custom": {
+        "text": "The secret trick to prepare a perfect burger"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox454": {
+      "custom": {
+        "text": "The secret trick to prepare a perfect burger"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox455": {
+      "custom": {
+        "text": "September 1, 2022"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image204": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/article3.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image205": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/article5.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox456": {
+      "custom": {
+        "text": "September 1, 2022"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox457": {
+      "custom": {
+        "text": "The secret trick to prepare a perfect burger"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox458": {
+      "custom": {
+        "text": "The secret trick to prepare a perfect burger"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox459": {
+      "custom": {
+        "text": "September 1, 2022"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image206": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/article4.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
     "Image39": {
       "custom": {
         "alt": "No preview available",
@@ -1655,154 +1812,6 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image45": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/article2.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox118": {
-      "custom": {
-        "text": "Your text Here!"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox119": {
-      "custom": {
-        "text": "Your text Here!"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox120": {
-      "custom": {
-        "text": "Your text Here!"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox121": {
-      "custom": {
-        "text": "Your text Here!"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image46": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/article3.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox122": {
-      "custom": {
-        "text": "Your text Here!"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox123": {
-      "custom": {
-        "text": "Your text Here!"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image47": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/article4.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox124": {
-      "custom": {
-        "text": "Your text Here!"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox125": {
-      "custom": {
-        "text": "Your text Here!"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image48": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/article5.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
     "Button8": {
       "custom": {
         "text": "Book a table"
@@ -1817,7 +1826,7 @@ const desktopModeProps = {
     },
     "TextBox92": {
       "custom": {
-        "text": "Your text Here!"
+        "text": "Name"
       },
       "callbacks": {
         "onClick": [
@@ -1830,13 +1839,13 @@ const desktopModeProps = {
     "Input56": {
       "custom": {
         "value": "",
-        "placeholder": "Placeholder Text"
+        "placeholder": "John Carter"
       },
       "callbacks": {}
     },
     "TextBox93": {
       "custom": {
-        "text": "Your text Here!"
+        "text": "Email Address"
       },
       "callbacks": {
         "onClick": [
@@ -1849,83 +1858,7 @@ const desktopModeProps = {
     "Input57": {
       "custom": {
         "value": "",
-        "placeholder": "Placeholder Text"
-      },
-      "callbacks": {}
-    },
-    "TextBox94": {
-      "custom": {
-        "text": "Your text Here!"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Input58": {
-      "custom": {
-        "value": "",
-        "placeholder": "Placeholder Text"
-      },
-      "callbacks": {}
-    },
-    "TextBox96": {
-      "custom": {
-        "text": "Your text Here!"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Input60": {
-      "custom": {
-        "value": "",
-        "placeholder": "Placeholder Text"
-      },
-      "callbacks": {}
-    },
-    "TextBox97": {
-      "custom": {
-        "text": "Your text Here!"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Input61": {
-      "custom": {
-        "value": "",
-        "placeholder": "Placeholder Text"
-      },
-      "callbacks": {}
-    },
-    "TextBox98": {
-      "custom": {
-        "text": "Your text Here!"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Input62": {
-      "custom": {
-        "value": "",
-        "placeholder": "Placeholder Text"
+        "placeholder": "example@gmail.com"
       },
       "callbacks": {}
     },
@@ -1944,9 +1877,85 @@ const desktopModeProps = {
     "Input64": {
       "custom": {
         "value": "",
-        "placeholder": "Placeholder Text"
+        "placeholder": "Do you have any note for us ?"
       },
       "callbacks": {}
+    },
+    "Input68": {
+      "custom": {
+        "value": "",
+        "placeholder": "Ex. Log Angeles"
+      },
+      "callbacks": {}
+    },
+    "TextBox434": {
+      "custom": {
+        "text": "Location"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Input69": {
+      "custom": {
+        "value": "",
+        "placeholder": "(123) 456 - 789"
+      },
+      "callbacks": {}
+    },
+    "TextBox435": {
+      "custom": {
+        "text": "Phone"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Input70": {
+      "custom": {
+        "value": "",
+        "placeholder": "Ex. 2:00PM"
+      },
+      "callbacks": {}
+    },
+    "TextBox436": {
+      "custom": {
+        "text": "Schedule"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Input71": {
+      "custom": {
+        "value": "",
+        "placeholder": "Day and month"
+      },
+      "callbacks": {}
+    },
+    "TextBox437": {
+      "custom": {
+        "text": "Date"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
     },
     "TextBox27": {
       "custom": {
@@ -1974,7 +1983,8 @@ const desktopModeProps = {
     },
     "Image30": {
       "custom": {
-        "alt": "No preview available"
+        "alt": "No preview available",
+        "src": "/app-assets/loc.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1998,7 +2008,8 @@ const desktopModeProps = {
     },
     "Image31": {
       "custom": {
-        "alt": "No preview available"
+        "alt": "No preview available",
+        "src": "/app-assets/call.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2022,7 +2033,8 @@ const desktopModeProps = {
     },
     "Image32": {
       "custom": {
-        "alt": "No preview available"
+        "alt": "No preview available",
+        "src": "/app-assets/mail.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2070,7 +2082,8 @@ const desktopModeProps = {
     },
     "Image10": {
       "custom": {
-        "alt": "No preview available"
+        "alt": "No preview available",
+        "src": "/app-assets/fol1.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2082,7 +2095,8 @@ const desktopModeProps = {
     },
     "Image11": {
       "custom": {
-        "alt": "No preview available"
+        "alt": "No preview available",
+        "src": "/app-assets/clasfries.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2092,9 +2106,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image12": {
+    "Image192": {
       "custom": {
-        "alt": "No preview available"
+        "alt": "No preview available",
+        "src": "/app-assets/fol5.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2104,9 +2119,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image13": {
+    "Image193": {
       "custom": {
-        "alt": "No preview available"
+        "alt": "No preview available",
+        "src": "/app-assets/fol4.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2116,9 +2132,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image14": {
+    "Image194": {
       "custom": {
-        "alt": "No preview available"
+        "alt": "No preview available",
+        "src": "/app-assets/fol3.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2128,9 +2145,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image15": {
+    "Image195": {
       "custom": {
-        "alt": "No preview available"
+        "alt": "No preview available",
+        "src": "/app-assets/fol2.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2167,7 +2185,8 @@ const desktopModeProps = {
     },
     "Image25": {
       "custom": {
-        "alt": "No preview available"
+        "alt": "No preview available",
+        "src": "/app-assets/star.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2177,9 +2196,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image26": {
+    "Image168": {
       "custom": {
-        "alt": "No preview available"
+        "alt": "No preview available",
+        "src": "/app-assets/star.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2189,9 +2209,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image27": {
+    "Image169": {
       "custom": {
-        "alt": "No preview available"
+        "alt": "No preview available",
+        "src": "/app-assets/star.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2201,9 +2222,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image28": {
+    "Image170": {
       "custom": {
-        "alt": "No preview available"
+        "alt": "No preview available",
+        "src": "/app-assets/star.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2213,105 +2235,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image29": {
+    "Image171": {
       "custom": {
-        "alt": "No preview available"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox9": {
-      "custom": {
-        "text": "Pages"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox10": {
-      "custom": {
-        "text": "Home"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox11": {
-      "custom": {
-        "text": "Contact"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox12": {
-      "custom": {
-        "text": "Blog Post"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox13": {
-      "custom": {
-        "text": "Blog"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox14": {
-      "custom": {
-        "text": "Menu"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox15": {
-      "custom": {
-        "text": "About"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox16": {
-      "custom": {
-        "text": "Delivery"
+        "alt": "No preview available",
+        "src": "/app-assets/star.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2417,6 +2344,102 @@ const desktopModeProps = {
         ]
       }
     },
+    "TextBox9": {
+      "custom": {
+        "text": "Pages"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox10": {
+      "custom": {
+        "text": "Home"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox11": {
+      "custom": {
+        "text": "Contact"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox12": {
+      "custom": {
+        "text": "Blog Post"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox13": {
+      "custom": {
+        "text": "Blog"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox14": {
+      "custom": {
+        "text": "Menu"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox15": {
+      "custom": {
+        "text": "About"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox16": {
+      "custom": {
+        "text": "Delivery"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
     "TextBox8": {
       "custom": {
         "text": "Follow us on Instagram"
@@ -2429,9 +2452,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image18": {
+    "Image186": {
       "custom": {
-        "alt": "No preview available"
+        "alt": "No preview available",
+        "src": "/app-assets/fol2.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2441,9 +2465,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image19": {
+    "Image190": {
       "custom": {
-        "alt": "No preview available"
+        "alt": "No preview available",
+        "src": "/app-assets/fol3.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2453,9 +2478,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image20": {
+    "Image188": {
       "custom": {
-        "alt": "No preview available"
+        "alt": "No preview available",
+        "src": "/app-assets/fol4.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2465,9 +2491,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image21": {
+    "Image191": {
       "custom": {
-        "alt": "No preview available"
+        "alt": "No preview available",
+        "src": "/app-assets/fol5.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2477,7 +2504,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image163": {
+    "Image226": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/Restaurante%20X.svg"
@@ -2490,7 +2517,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox425": {
+    "TextBox502": {
       "custom": {
         "text": "Home"
       },
@@ -2502,7 +2529,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox426": {
+    "TextBox503": {
       "custom": {
         "text": "About"
       },
@@ -2514,7 +2541,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox427": {
+    "TextBox505": {
       "custom": {
         "text": "Menu"
       },
@@ -2526,7 +2553,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox428": {
+    "TextBox506": {
       "custom": {
         "text": "Pages"
       },
@@ -2538,7 +2565,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox429": {
+    "TextBox507": {
       "custom": {
         "text": "Cart"
       },
@@ -2550,7 +2577,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button39": {
+    "Button47": {
       "custom": {
         "text": "Order online"
       },
@@ -2562,7 +2589,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button40": {
+    "Button48": {
       "custom": {
         "text": "Reservate"
       },
