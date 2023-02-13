@@ -8,7 +8,7 @@ Atri framework is extending the definition of full-stack to include non web deve
 ```shell
 pipenv install atri==0.0.78
 pipenv shell
-atri start
+atri start 
 ```
 **Note: Python version should be >=3.8 & <=3.10.8**
 
