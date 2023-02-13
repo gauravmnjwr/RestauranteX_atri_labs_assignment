@@ -4307,3 +4307,15 @@ export function useTextBox16Cb() {
 }), [])
 	return { onClick }
 }
+export function useFlex487Cb() {
+	const onClick = useCallback(callbackFactory("Flex487", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}

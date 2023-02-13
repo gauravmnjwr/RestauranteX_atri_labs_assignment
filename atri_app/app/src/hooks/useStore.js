@@ -52,6 +52,9 @@ const desktopModeProps = {
     "Flex405": {
       "callbacks": {}
     },
+    "Flex487": {
+      "callbacks": {}
+    },
     "Flex2": {
       "callbacks": {}
     },
@@ -374,30 +377,6 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox430": {
-      "custom": {
-        "text": "The best place to"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox431": {
-      "custom": {
-        "text": "eat burgers in LA."
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
     "TextBox432": {
       "custom": {
         "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum eget non vivamus volutpat odio cras vestibulum purus aliquam."
@@ -425,6 +404,30 @@ const desktopModeProps = {
     "Button42": {
       "custom": {
         "text": "Order online"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox430": {
+      "custom": {
+        "text": "The best place to"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox431": {
+      "custom": {
+        "text": "eat burgers in LA."
       },
       "callbacks": {
         "onClick": [
@@ -990,7 +993,7 @@ const desktopModeProps = {
     },
     "TextBox320": {
       "custom": {
-        "text": "Classic Burger"
+        "text": "Choclate Milkshake"
       },
       "callbacks": {
         "onClick": [
@@ -1039,7 +1042,7 @@ const desktopModeProps = {
     },
     "TextBox323": {
       "custom": {
-        "text": "Classic Burger"
+        "text": "Classic Fries"
       },
       "callbacks": {
         "onClick": [
@@ -1088,7 +1091,7 @@ const desktopModeProps = {
     },
     "TextBox326": {
       "custom": {
-        "text": "Classic Burger"
+        "text": "Pancakes"
       },
       "callbacks": {
         "onClick": [
@@ -1161,7 +1164,7 @@ const desktopModeProps = {
     },
     "TextBox332": {
       "custom": {
-        "text": "Classic Burger"
+        "text": "Ice Cream"
       },
       "callbacks": {
         "onClick": [
@@ -1210,7 +1213,7 @@ const desktopModeProps = {
     },
     "TextBox338": {
       "custom": {
-        "text": "Classic Burger"
+        "text": "Chicken Burger"
       },
       "callbacks": {
         "onClick": [
@@ -1259,7 +1262,7 @@ const desktopModeProps = {
     },
     "TextBox341": {
       "custom": {
-        "text": "Classic Burger"
+        "text": "Regular Soda"
       },
       "callbacks": {
         "onClick": [
